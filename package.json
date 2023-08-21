@@ -5,7 +5,8 @@
     "brain-games": "bin/brain-games.js",
     "brain-even": "bin/brain-even.js",
     "brain-even": "bin/brain-calc.js",
-    "brain-even": "bin/brain-gcd.js"
+    "brain-even": "bin/brain-gcd.js",
+    "brain-even": "bin/brain-progression.js"
   },
   "type": "module",
   "description": "Game's pack project",
