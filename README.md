@@ -24,19 +24,19 @@
 
 ### Последовательность действий
 
-**Склонировать репозиторий**
+**1. Склонировать репозиторий**
 
 ``
 git clone git@github.com:AruMkh/frontend-project-44.git
 ``
 
-**Установить зависимости**
+**2. Установить зависимости**
 
  ``
 npm install
 ``
 
-**Установить глобальный пакет**
+**3. Установить глобальный пакет**
 
 ``
 npm link
@@ -65,7 +65,7 @@ npm link
     </tr>
     <tr>
         <td style="width: 50%;">
-            <a href=" https://asciinema.org/a/U7mILvErYqPB82N9ZqxYs0GFy" target="_blank"><img src=" https://asciinema.org/a/U7mILvErYqPB82N9ZqxYs0GFy.svg" /></a>
+            <a href="https://asciinema.org/a/U7mILvErYqPB82N9ZqxYs0GFy" target="_blank"><img src="https://asciinema.org/a/U7mILvErYqPB82N9ZqxYs0GFy.svg" /></a>
         </td>
         <td style="width: 30%;">
             <a href="https://asciinema.org/a/TvW7yluaMU0gx2RPQF7jkl4Tr" target="_blank"><img src="https://asciinema.org/a/TvW7yluaMU0gx2RPQF7jkl4Tr.svg" /></a>
