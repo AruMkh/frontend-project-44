@@ -24,19 +24,19 @@
 
 ### Steps
 
-**1. Clone repository**
+***1. Clone repository***
 
 ``
 git clone git@github.com:AruMkh/frontend-project-44.git
 ``
 
-**2. Install dependencies**
+***2. Install dependencies***
 
  ``
 npm install
 ``
 
-**3. Install global package**
+***3. Install global package***
 
 ``
 npm link
@@ -44,15 +44,15 @@ npm link
 
 ## Run
 
-**Is Even:** ``brain-even``
+***Is Even:*** ``brain-even``
 
-**Calculator:** ``brain-calc``
+***Calculator:*** ``brain-calc``
 
-**Greatest common divisor:** ``brain-gcd``
+***Greatest common divisor:*** ``brain-gcd``
 
-**Progression:** ``brain-progression``
+***Progression:*** ``brain-progression``
 
-**Prime number:** ``brain-prime``
+***Prime number:*** ``brain-prime``
 
 ## Demonstration
 <table style="width: 100%;">
@@ -75,7 +75,7 @@ npm link
 
 <table style="width: 100%;">
     <tr>
-        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Calculator: ``brain-calc``</th>
+        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Calculator: brain-calc</th>
     </tr>
     <tr style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">
         <td>True</td>
@@ -93,7 +93,7 @@ npm link
 
 <table style="width: 100%;">
     <tr>
-        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Greatest common divisor: ``brain-gcd``</th>
+        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Greatest common divisor: brain-gcd</th>
     </tr>
     <tr style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">
         <td>True</td>
@@ -111,7 +111,7 @@ npm link
 
 <table style="width: 100%;">
     <tr>
-        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Progression: ``brain-progression``</th>
+        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Progression: brain-progression</th>
     </tr>
     <tr style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">
         <td>True</td>
@@ -129,7 +129,7 @@ npm link
 
 <table style="width: 100%;">
     <tr>
-        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Prime number: ``brain-prime``</th>
+        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Prime number: brain-prime</th>
     </tr>
     <tr style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">
         <td>True</td>
