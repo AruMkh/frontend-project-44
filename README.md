@@ -42,7 +42,7 @@ npm install
 npm link
 ``
 
-## Run
+## To start
 
 ***Is Even:*** ``brain-even``
 
@@ -57,7 +57,7 @@ npm link
 ## Demonstration
 <table style="width: 100%;">
     <tr>
-        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Is Even: ``brain-even``</th>
+        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Is Even: brain-even</th>
     </tr>
     <tr>
         <td style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">True</td>
