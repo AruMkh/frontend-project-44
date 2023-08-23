@@ -5,17 +5,17 @@
 # Brain games
 ### Description
 
-***"Brain games" is a set of five console games based on the popular mobile brain-pumping apps. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered completed. Incorrect answers end the game and prompt you to play it again.***
+**"Brain games"** ***is a set of five console games based on the popular mobile brain-pumping apps. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered completed. Incorrect answers end the game and prompt you to play it again.***
 
-***•	Calculator - a random expression of two numbers is output to the terminal, and the user must guess the result of this expression.***
+**•	Calculator** ***- a random expression of two numbers is output to the terminal, and the user must guess the result of this expression.***
 
-***•	Progression - a mini-game in which you need to guess the missing element in the arithmetic progression.***
+**•	Progression** ***- a mini-game in which you need to guess the missing element in the arithmetic progression.***
 
-***•	Is Even - prompts the user to guess whether the number is even or not.***
+**•	Is Even** ***- prompts the user to guess whether the number is even or not.***
 
-***•	Greatest common divisor - two random numbers are also output to the terminal, and the user needs to find the greatest common divisor for them.***
+**•	Greatest common divisor** ***- two random numbers are also output to the terminal, and the user needs to find the greatest common divisor for them.***
 
-***•	Prime number - the user needs to find out and give an answer whether the number proposed by the program is prime.***
+**•	Prime number** ***- the user needs to find out and give an answer whether the number proposed by the program is prime.***
 
 ## Setup
 
