@@ -15,10 +15,10 @@ const createRandomProgression = (firstElement, step) => {
 const getDataForRound = () => {
   const firstElement = getRandomNumber(1, 10);
   const step = getRandomNumber(1, 10);
-  const arrayWithProgression = createRandomProgression(firstElement, step);
-  const numberForAnswer = arrayWithProgression.splice(getRandomNumber(1, 10), 1, '..');
+  const randomProgression = createRandomProgression(firstElement, step);
+  const numberForAnswer = randomProgression.splice(getRandomNumber(1, 10), 1, '..');
   const answer = String(numberForAnswer);
-  const progression = arrayWithProgression.join(' ');
+  const progression = randomProgression.join(' ');
   return [progression, answer];
 };
 
