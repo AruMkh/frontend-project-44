@@ -2,66 +2,66 @@
 [![Actions Status](https://github.com/AruMkh/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/AruMkh/frontend-project-44/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/2437d4646cc244363d5e/maintainability)](https://codeclimate.com/github/AruMkh/frontend-project-44/maintainability)
 
-# Игры разума
-### Описание
+# Brain games
+### Description
 
-***«Игры разума» — набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново. Игры:***
+***"Brain games" is a set of five console games based on the popular mobile brain-pumping apps. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered completed. Incorrect answers end the game and prompt you to play it again.***
 
-***•	Калькулятор. Арифметические выражения, которые необходимо вычислить.***
+***•	Calculator - a random expression of two numbers is output to the terminal, and the user must guess the result of this expression.***
 
-***•	Прогрессия. Поиск пропущенных чисел в последовательности чисел.***
+***•	Progression - a mini-game in which you need to guess the missing element in the arithmetic progression.***
 
-***•	Определение четного числа.***
+***•	Is Even - prompts the user to guess whether the number is even or not.***
 
-***•	Определение наибольшего общего делителя.***
+***•	Greatest common divisor - two random numbers are also output to the terminal, and the user needs to find the greatest common divisor for them.***
 
-***•	Определение простого числа.***
+***•	Prime number - the user needs to find out and give an answer whether the number proposed by the program is prime.***
 
-## Установка
+## Setup
 
-### Требования
+### Requirements
 * Node.js v19.9.0
 
-### Последовательность действий
+### Steps
 
-**1. Склонировать репозиторий**
+**1. Clone repository**
 
 ``
 git clone git@github.com:AruMkh/frontend-project-44.git
 ``
 
-**2. Установить зависимости**
+**2. Install dependencies**
 
  ``
 npm install
 ``
 
-**3. Установить глобальный пакет**
+**3. Install global package**
 
 ``
 npm link
 ``
 
-## Запуск
+## Run
 
-**Проверка на чётность:** ``brain-even``
+**Is Even:** ``brain-even``
 
-**Калькулятор:** ``brain-calc``
+**Calculator:** ``brain-calc``
 
-**Наибольший общий делитель:** ``brain-gcd``
+**Greatest common divisor:** ``brain-gcd``
 
-**Арифметическая прогрессия:** ``brain-progression``
+**Progression:** ``brain-progression``
 
-**Определение простого числа:** ``brain-prime``
+**Prime number:** ``brain-prime``
 
-## Демонстрация
+## Demonstration
 <table style="width: 100%;">
     <tr>
-        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2"> Проверка на чётность (brain-even)</th>
+        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Is Even: ``brain-even``</th>
     </tr>
     <tr>
-        <td style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">Успех</td>
-        <td style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">Провал</td>
+        <td style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">True</td>
+        <td style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">False</td>
     </tr>
     <tr>
         <td style="width: 50%;">
@@ -75,11 +75,11 @@ npm link
 
 <table style="width: 100%;">
     <tr>
-        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2"> Калькулятор (brain-calc)</th>
+        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Calculator: ``brain-calc``</th>
     </tr>
     <tr style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">
-        <td>Успех</td>
-        <td>Провал</td>
+        <td>True</td>
+        <td>False</td>
     </tr>
     <tr>
         <td style="width: 50%;">
@@ -93,11 +93,11 @@ npm link
 
 <table style="width: 100%;">
     <tr>
-        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2"> Наибольший общий делитель (brain-gcd)</th>
+        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Greatest common divisor: ``brain-gcd``</th>
     </tr>
     <tr style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">
-        <td>Успех</td>
-        <td>Провал</td>
+        <td>True</td>
+        <td>False</td>
     </tr>
     <tr>
         <td>
@@ -111,11 +111,11 @@ npm link
 
 <table style="width: 100%;">
     <tr>
-        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2"> Арифметическая прогрессия (brain-progression)</th>
+        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Progression: ``brain-progression``</th>
     </tr>
     <tr style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">
-        <td>Успех</td>
-        <td>Провал</td>
+        <td>True</td>
+        <td>False</td>
     </tr>
     <tr>
         <td>
@@ -129,11 +129,11 @@ npm link
 
 <table style="width: 100%;">
     <tr>
-        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2"> Определение простого числа (brain-prime)</th>
+        <th style="width: 100%;font-size: 25px;font-weight: bold;text-align: center;" colspan="2">Prime number: ``brain-prime``</th>
     </tr>
     <tr style="width: 50%;font-size: 20px;font-weight: bold;text-align: center;">
-        <td>Успех</td>
-        <td>Провал</td>
+        <td>True</td>
+        <td>False</td>
     </tr>
     <tr>
         <td>
